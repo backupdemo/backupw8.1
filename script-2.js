@@ -12,7 +12,7 @@ $(".submit").on('click', function() {
 });
 
 $(".ok_message").on('click', function() {
-  location.href = 'http://backup8.herokuapp.com/';
+  location.href = 'http://backup7.herokuapp.com/';
 });
 function timeout(){
 setTimeout(function() {
